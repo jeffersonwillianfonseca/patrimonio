@@ -9,10 +9,6 @@
 .idea/**/tasks.xml
 .idea/dictionaries
 .idea/vcs.xml
-.idea/
-mvnw
-mvnw.cmd
-patrimonioutfpr.iml
 
 # Sensitive or high-churn files:
 .idea/**/dataSources/
